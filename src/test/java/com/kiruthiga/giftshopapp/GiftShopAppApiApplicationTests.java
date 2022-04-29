@@ -1,4 +1,4 @@
-package com.kiruthiga.giftshopapp.GiftShopAppapi;
+package com.kiruthiga.giftshopapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
