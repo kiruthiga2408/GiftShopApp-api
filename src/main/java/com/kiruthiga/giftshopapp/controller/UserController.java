@@ -67,8 +67,23 @@ public class UserController {
 			 
 		 }
 		 
-	
+		 
 	 }
+	 @PostMapping("users/login")
+		public User login(@RequestBody User user) {
+			Optional<User> userObj=userRepository.findByEmailAndPassword(user.getEmail(),user.getPassword());
+			if(userObj.isPresent()) {
+				return userObj.get();
+			}else {
+			return null;
+			}
+			
+		}
+
+
+
+
+
 	 
 	 
       

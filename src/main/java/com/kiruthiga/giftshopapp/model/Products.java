@@ -12,15 +12,11 @@ import lombok.ToString;
 @Data
 @ToString
 @Entity(name="giftshop_items")
-public class Items {
+public class Products
+{
 
-	
-	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY) //AutoIncrement
-	@Column(name="id")
-	private Integer id;
-	
 	@Column(name="gift_id")
 	private Integer giftItemId;
 	

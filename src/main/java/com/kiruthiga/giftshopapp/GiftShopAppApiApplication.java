@@ -8,7 +8,7 @@ public class GiftShopAppApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GiftShopAppApiApplication.class, args);
-		System.out.println("kiruthiga");
+		System.out.println("Welcome!!!");
 		
 	}
 

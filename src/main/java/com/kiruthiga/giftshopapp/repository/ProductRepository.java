@@ -1,12 +1,16 @@
 package com.kiruthiga.giftshopapp.repository;
 
+
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.kiruthiga.giftshopapp.model.Items;
+
+import com.kiruthiga.giftshopapp.model.Products;
 
 
 @Repository
-public interface ItemRepository  extends JpaRepository<Items,Integer>{
+public interface ProductRepository  extends JpaRepository<Products,Integer>{
+
 
 }
