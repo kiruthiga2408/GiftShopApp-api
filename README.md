@@ -23,4 +23,4 @@ To run from source code:
 
 • git clone https://github.com/kiruthiga2408/GiftShopApp-api • mvn package • java -jar target/.jar
 
-To run with docker: • docker build .
+
