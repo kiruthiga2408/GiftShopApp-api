@@ -6,12 +6,19 @@ Online GiftShop Application will manage the order for purchase, availability of 
 Technologies Used:
 
 • Java 1.8 
-• Rest API 
+
+• Rest API
+
 • Angular
-• Spring Boot 
+
+• Spring Boot
+
 • Hibernate 
-• PL/SQL 
-• Bootstrap 
+
+• PL/SQL
+
+• Bootstrap
+
 • JavaScript
 
 
@@ -20,12 +27,19 @@ Features:
 
 A Customer can: 
 • Login. 
+
 • View the home page.
+
 • View all Gifts.
+
 • View Gift  Details.
-• Add gift  to their cart. 
+
+• Add gift  to their cart.
+
 • View their cart.
-• View their order details. 
+
+• View their order details.
+
 • Search gifts based on categories, Gift name, occasions, price.
 
 
