@@ -18,7 +18,15 @@ Technologies Used:
 
 Features:
 
-A Customer can: • Login. • View the home page. • View all Gifts. • View Gift  Details. • Add gift  to their cart. • View their cart. • View their order details. • Search gifts based on categories, Gift name, occasions, price.
+A Customer can: 
+• Login. 
+• View the home page.
+• View all Gifts.
+• View Gift  Details.
+• Add gift  to their cart. 
+• View their cart.
+• View their order details. 
+• Search gifts based on categories, Gift name, occasions, price.
 
 
 An Admin can:
