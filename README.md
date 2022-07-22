@@ -25,10 +25,10 @@ Online GiftShop Application will manage the order for purchase, availability of 
 
 
 
-### Features:
+## Features:
 
 
-## A Customer can: 
+### A Customer can: 
 
 • Login. 
 
@@ -47,7 +47,7 @@ Online GiftShop Application will manage the order for purchase, availability of 
 • Search gifts based on categories, Gift name, occasions, price.
 
 
-## An Admin can:
+### An Admin can:
 
 
 • Login.
