@@ -29,6 +29,7 @@ Online GiftShop Application will manage the order for purchase, availability of 
 
 
 A Customer can: 
+
 • Login. 
 
 • View the home page.
@@ -68,6 +69,10 @@ A Customer can:
 
 To run from source code:
 
-• git clone https://github.com/kiruthiga2408/GiftShopApp-api • mvn package • java -jar target/.jar
+• git clone https://github.com/kiruthiga2408/GiftShopApp-api 
+
+• mvn package 
+
+• java -jar target/.jar
 
 
